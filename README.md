@@ -9,7 +9,7 @@ Software engineer interested in AI agents, automation, and developer tooling.
 - :gear: Exploring autonomous AI workflows
 - :computer: Mainly working with Python, TypeScript, and AI frameworks
 
-## :tools: Tech Stack
+## 🛠 Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
