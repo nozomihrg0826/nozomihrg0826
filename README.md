@@ -29,6 +29,3 @@ Software engineer interested in AI agents, automation, and developer tooling.
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nozomihrg0826&theme=github_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nozomihrg0826&theme=github_dark&utcOffset=9)
 
-## :pushpin: Featured Projects
-
-- Kivotos TL Analyzer
